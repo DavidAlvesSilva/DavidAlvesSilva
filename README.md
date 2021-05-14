@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm David</h1>
 <hr>
 
-<h3>Sou novo na área de programação estou começando meu portifólio.</h3>
+<h3 align-center>Sou novo na área de programação estou começando meu portifólio.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidAlvesSilvat&label=Profile%20views&color=0e75b6&style=flat" alt="DavidAlvesSilva" /> </p>
 
@@ -28,6 +28,16 @@ Here are some ideas to get you started:
 </a> 
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a> 
+</a>
+
+<p> 
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidAlvesSilva&show_icons=true&locale=en&layout=compact" alt="DAvidAlvesSilvat" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidAlvesSilva&show_icons=true&locale=en" alt="DavidAlvesSilva" />
+</p>
+
 
 
